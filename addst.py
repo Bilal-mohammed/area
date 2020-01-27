@@ -1,0 +1,2 @@
+x = nemeg
+print(x)
