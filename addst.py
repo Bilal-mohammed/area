@@ -1,2 +1,0 @@
-x = nemeg
-print(x)
